@@ -6,7 +6,7 @@
  * Version:           1.7.3
  * Requires at least: 5.4
  * Requires PHP:      7.3
- * Author:            Jeff Miller & Michael Markoski & Charlotte Mountain & Ben Sevcik & Daniel Cronin & Natalie Birch
+ * Author:            Jeff Miller & Michael Markoski & Charlotte Mountain & Ben Sevcik & Daniel Cronin & Natalie Birch & Jorge Fernandez
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       awesome-analytics
